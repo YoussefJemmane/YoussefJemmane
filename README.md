@@ -13,13 +13,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefJemmane&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Youssef Jemmane&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=YoussefJemmane&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Youssef Jemmane&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=YoussefJemmane&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
