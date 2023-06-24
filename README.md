@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div style="display: flex; align-items: center;">
-  <img src="https://api.daily.dev/devcards/0c124d2aaff24d46a05592645c9aa8b9.png?r=q03" width="400" alt="Youssef Jemmane's Dev Card" style="margin-right: 20px;">
+ <a href="https://app.daily.dev/JoeMane"><img src="https://api.daily.dev/devcards/0c124d2aaff24d46a05592645c9aa8b9.png?r=q03" width="400" alt="Youssef Jemmane's Dev Card"/></a>
   <div>
     <p>Hi there! 👋</p>
     <p>I am open to new opportunities and excited to work in a variety of environments. If you have any job openings or collaboration opportunities, please feel free to reach out!</p>
