@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi there! 👋<br><br>I am open to new opportunities and excited to work in a variety of environments. If you have any job openings or collaboration opportunities, please feel free to reach out!<br><br>Currently, I am looking for help in finding a good job where I can apply my skills and contribute to meaningful projects. I am open to exploring different industries and roles.<br><br>I am also actively learning DevOps, with a focus on Docker. It's fascinating to see how containerization can improve the development and deployment process.<br><br>Fun fact about me: I love nature and have a special fondness for plants, especially clover. 🌱<br><br>Let's connect and collaborate on exciting projects! Feel free to reach out to me. 😄
-
+<a href="https://app.daily.dev/JoeMane"><img src="https://api.daily.dev/devcards/0c124d2aaff24d46a05592645c9aa8b9.png?r=q03" width="400" alt="Youssef Jemmane's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jemmane-youssef-685875212/) [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=Twitter&logoColor=blue)](https://twitter.com/@YoussefJemmane) 
