@@ -28,7 +28,7 @@
 [![](https://visitcount.itsvg.in/api?id=JoeMane&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://www.buymeacoffee.com/iuzYBR5XYg) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Youssef Jemmane) 
+  [![BuyMeACoffee](iuzYBR5XYg) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Youssef Jemmane) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
