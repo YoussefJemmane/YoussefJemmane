@@ -1,16 +1,43 @@
-# 💫 About Me:
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .flex-container {
+      display: flex;
+      align-items: center;
+    }
 
-<div style="display: flex; align-items: center;">
- <a href="https://app.daily.dev/JoeMane"><img src="https://api.daily.dev/devcards/0c124d2aaff24d46a05592645c9aa8b9.png?r=q03" width="400" alt="Youssef Jemmane's Dev Card"/></a>
-  <div>
-    <p style="color:red;">Hi there! 👋</p>
-    <p>I am open to new opportunities and excited to work in a variety of environments. If you have any job openings or collaboration opportunities, please feel free to reach out!</p>
-    <p>Currently, I am looking for help in finding a good job where I can apply my skills and contribute to meaningful projects. I am open to exploring different industries and roles.</p>
-    <p>I am also actively learning DevOps, with a focus on Docker. It's fascinating to see how containerization can improve the development and deployment process.</p>
-    <p>Fun fact about me: I love nature and have a special fondness for plants, especially clover. 🌱</p>
-    <p>Let's connect and collaborate on exciting projects! Feel free to reach out to me. 😄</p>
+    .flex-container img {
+      margin-right: 20px;
+    }
+
+    .red-text {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <h1>💫 About Me:</h1>
+
+  <div class="flex-container">
+    <a href="https://app.daily.dev/JoeMane"><img src="https://api.daily.dev/devcards/0c124d2aaff24d46a05592645c9aa8b9.png?r=q03" width="400" alt="Youssef Jemmane's Dev Card"></a>
+    <div>
+      <p class="red-text">Hi there! 👋</p>
+      <p>I am open to new opportunities and excited to work in a variety of environments. If you have any job openings or collaboration opportunities, please feel free to reach out!</p>
+      <p>Currently, I am looking for help in finding a good job where I can apply my skills and contribute to meaningful projects. I am open to exploring different industries and roles.</p>
+      <p>I am also actively learning DevOps, with a focus on Docker. It's fascinating to see how containerization can improve the development and deployment process.</p>
+      <p>Fun fact about me: I love nature and have a special fondness for plants, especially clover. 🌱</p>
+      <p>Let's connect and collaborate on exciting projects! Feel free to reach out to me. 😄</p>
+    </div>
   </div>
-</div>
+
+  <hr>
+
+  <h3>Connect with Me:</h3>
+  <p>You can find me on <a href="https://app.daily.dev/JoeMane">Daily.dev</a>.</p>
+</body>
+</html>
+
 
 ---
 
