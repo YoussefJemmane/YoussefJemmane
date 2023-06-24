@@ -1,9 +1,7 @@
 # 💫 About Me:
 
-<div>
-  <div style="float: left; margin-right: 20px;">
-    <img src="https://api.daily.dev/devcards/0c124d2aaff24d46a05592645c9aa8b9.png?r=q03" width="400" alt="Youssef Jemmane's Dev Card">
-  </div>
+<div style="display: flex; align-items: center;">
+  <img src="https://api.daily.dev/devcards/0c124d2aaff24d46a05592645c9aa8b9.png?r=q03" width="400" alt="Youssef Jemmane's Dev Card" style="margin-right: 20px;">
   <div>
     <p>Hi there! 👋</p>
     <p>I am open to new opportunities and excited to work in a variety of environments. If you have any job openings or collaboration opportunities, please feel free to reach out!</p>
@@ -13,8 +11,6 @@
     <p>Let's connect and collaborate on exciting projects! Feel free to reach out to me. 😄</p>
   </div>
 </div>
-
-<br style="clear: both;">
 
 ---
 
