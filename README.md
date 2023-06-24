@@ -4,6 +4,7 @@
 
 <a href="https://app.daily.dev/JoeMane"><img src="https://api.daily.dev/devcards/0c124d2aaff24d46a05592645c9aa8b9.png?r=q03" width="400" alt="Youssef Jemmane's Dev Card"/></a>
 
+---
 
 
 ## 🌐 Socials:
