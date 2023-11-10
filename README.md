@@ -1,5 +1,3 @@
-# 💫 About Me:
-### Hi there! 👋<br><br>I am open to new opportunities and excited to work in a variety of environments. If you have any job openings or collaboration opportunities, please feel free to reach out!<br><br>Currently, I am looking for help in finding a good job where I can apply my skills and contribute to meaningful projects. I am open to exploring different industries and roles.<br><br>I am also actively learning DevOps, with a focus on Docker. It's fascinating to see how containerization can improve the development and deployment process.<br><br>Fun fact about me: I love nature and have a special fondness for plants, especially clover. 🌱<br><br>Let's connect and collaborate on exciting projects! Feel free to reach out to me. 😄
 ---
 
 <a href="https://app.daily.dev/JoeMane"><img src="https://github.com/YoussefJemmane/YoussefJemmane/blob/main/devcard.svg" width="400" alt="Youssef Jemmane's Dev Card"/></a>
@@ -17,18 +15,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YoussefJemmane&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefJemmane&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YoussefJemmane&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=JoeMane&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
-
- 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
