@@ -1,31 +1,84 @@
-# Youssef Jemmane - Full Stack Web Developer
+<!-- Add the following CSS style within HTML style tags -->
 
-## About Me
-Passionate full-stack web developer with expertise in creating exceptional digital experiences. Coding enthusiast since the age of 12, specializing in dynamic web applications using:
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
 
-- React
-- Laravel
-- Express
-- Node.js
-- MongoDB
-- MySQL
-- Tailwind CSS
+  header {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 2em 0;
+  }
 
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jemmaneyoussef/) [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=Twitter&logoColor=blue)](https://twitter.com/@YoussefJemmane) 
+  section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
 
-## Tech Stack
-- Frontend: React, Redux, Tailwind CSS
-- Backend: Laravel, Express, Node.js
-- Databases: MongoDB, MySQL
-- Other: HTML, CSS, Bootstrap
+  h1 {
+    color: #007bff;
+  }
 
-## Projects
-- **CV Builder App**: Simplifies and enhances the resume creation process.
-- **Rent Cars App**: Allows users to rent cars and manage reservations, with an admin panel.
+  h2 {
+    color: #333;
+  }
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefJemmane&theme=merko&hide_border=true&include_all_commits=false&count_private=false)
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
 
-## Get In Touch
-I am actively looking for new job opportunities. Feel free to reach out if you have job openings or want to discuss potential collaborations.
+  a:hover {
+    text-decoration: underline;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 0.5em;
+  }
+
+  footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #007bff;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+</style>
+
+<!-- README Content -->
+
+# Youssef Jemmane - Full Stack Developer
+
+<header>
+  <h1>Welcome to My GitHub Profile</h1>
+</header>
+
+<section>
+  <h2>Introduction</h2>
+  <p>Hello, I'm Youssef Jemmane, a passionate Full Stack Developer currently working as a Back End Developer Intern at FeverTokens. I have a strong interest in both back-end and front-end development, and I'm dedicated to creating efficient and robust solutions.</p>
+
+  <!-- Add the rest of your content here -->
+
+  <footer>
+    <p>Let's Connect:</p>
+    <a href="https://www.linkedin.com/in/youssef-jemmane/" target="_blank">LinkedIn</a> |
+    <a href="https://twitter.com/YoussefJemmane" target="_blank">Twitter</a> |
+    <a href="[Add your portfolio link]" target="_blank">Portfolio</a>
+  </footer>
+</section>
