@@ -1,2 +1,9 @@
 <h1 align="center">Hi 👋 it's Youssef Jemmane</h1>
-<h2 align="center">Hello, I'm Youssef Jemmane, a passionate Full Stack Developer currently working as a Back End Developer Intern at FeverTokens. I have a strong interest in both back-end and front-end development, and I'm dedicated to creating efficient and robust solutions.</h2>
+
+## ℹ️ About Me
+
+- 💻 Currently working at [FeverTokens](https://fevertokens.com/)
+- 🎮 Gaming Enthusiast: I love playing Valorant.
+- 📺 Anime and Series Buff: Favorites include Psycho Pass, Charlotte, SAO, No Game No Life.
+- 🎞️ Movie Series: Particularly enjoy Agatha Christie movies with Hercule Poirot played by Kenneth Branagh.
+- 📚 Bookworm: I enjoy reading a wide variety of books, with a childhood favorite being "The Little Prince."
