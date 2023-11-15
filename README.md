@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 it's Youssef Jemmane</h1>
 
 <h1> ℹ️ About Me </h1>
-<ul list-style-type="none">
+<ul>
   <li>💻 Currently working at [FeverTokens](https://fevertokens.com/)</li>
   <li>🎮 Gaming Enthusiast: I love playing Valorant.</li>
   <li>📺 Anime and Series Buff: Favorites include Psycho Pass, Charlotte, SAO, No Game No Life.</li>
