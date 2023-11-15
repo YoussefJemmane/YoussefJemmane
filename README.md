@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 it's Youssef Jemmane</h1>
 
-## ℹ️ About Me
+<h1> ℹ️ About Me </h1>
 
 - 💻 Currently working at [FeverTokens](https://fevertokens.com/)
 - 🎮 Gaming Enthusiast: I love playing Valorant.
