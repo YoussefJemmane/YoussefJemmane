@@ -2,7 +2,7 @@
 
 <h1> ℹ️ About Me </h1>
 <ul>
-  <li>💻 Currently working at [<img src="https://avatars.githubusercontent.com/u/96720980?s=64&amp;v=4" alt="@FeverTokens" size="32" height="32" width="32" data-view-component="true" class="avatar">](https://fevertokens.com/)</li>
+  <li>💻 Currently working at <img src="https://avatars.githubusercontent.com/u/96720980?s=64&amp;v=4" alt="@FeverTokens" size="32" height="32" width="32" data-view-component="true" class="avatar"></li>
   <li>🎮 Gaming Enthusiast: I love playing Valorant.</li>
   <li>📺 Anime and Series Buff: Favorites include Psycho Pass, Charlotte, SAO, No Game No Life.</li>
   <li>🎞️ Movie Series: Particularly enjoy Agatha Christie movies with Hercule Poirot played by Kenneth Branagh.</li>
