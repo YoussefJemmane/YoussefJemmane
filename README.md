@@ -17,6 +17,6 @@
 
 ## 🌐 Let's Connect
 
--[Linkedin](https://www.linkedin.com/in/jemmaneyoussef/)
+-[linkedin](https://www.linkedin.com/in/jemmaneyoussef/)
 - [Twitter](https://twitter.com/YoussefJemmane)
 - [Portfolio Website](https://jemmane.vercel.app)
