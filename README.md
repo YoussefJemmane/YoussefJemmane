@@ -1,8 +1,8 @@
-<!-- README Content with Inline Styles -->
+<!-- README Content with Basic HTML Attributes -->
 
 # Youssef Jemmane - Full Stack Developer
 
-<div style="text-align: center; background-color: #007bff; color: #fff; padding: 2em 0;">
+<div align="center" style="background-color: #007bff; color: #fff; padding: 2em 0;">
   <h1>Welcome to My GitHub Profile</h1>
 </div>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<div style="text-align: center; padding: 1em 0; background-color: #007bff; color: #fff; position: fixed; width: 100%; bottom: 0;">
+<div align="center" style="padding: 1em 0; background-color: #007bff; color: #fff;">
   <p>Let's Connect:</p>
   <a href="https://www.linkedin.com/in/youssef-jemmane/" style="color: #fff; text-decoration: none;" target="_blank">LinkedIn</a> |
   <a href="https://twitter.com/YoussefJemmane" style="color: #fff; text-decoration: none;" target="_blank">Twitter</a> |
