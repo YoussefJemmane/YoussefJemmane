@@ -15,4 +15,4 @@
 
 ![My Codewars](https://www.codewars.com/users/joemane.je/badges/large)
 
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31orcevy62s3mgy7gazxtblxqa7y&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31orcevy62s3mgy7gazxtblxqa7y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=4e5eb1&bar_color_cover=true)]]
