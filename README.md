@@ -2,10 +2,10 @@
 
 <h2> ℹ️ About Me </h2>
 
-- 💻 Currently interning at [FeverTokens](https://github.com/FeverTokens)
+- 💻 I am currently an [ALX](https://www.alxafrica.com/) Backend Web Development program student. 
 - 🎮 Gaming Enthusiast: I love playing Valorant.
-- 📺 Anime and Series Buff: Favorites include Psycho Pass, Charlotte, SAO, No Game No Life.
-- 🎞️ Movie Series: Particularly enjoy Agatha Christie movies with Hercule Poirot played by Kenneth Branagh.
+- 📺 Anime and Series Buff: Favorites include Psycho-Pass, Charlotte, SAO, and No Game No Life.
+- 🎞️ Movie Series: Enjoy Agatha Christie movies with Hercule Poirot played by Kenneth Branagh.
 - 📚 Bookworm: I enjoy reading a wide variety of books, with a childhood favorite being "The Little Prince."
 
 <div align="center">
